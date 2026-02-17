@@ -1,4 +1,4 @@
- <?php 
+  <?php 
 include "../configure/database_connection.php";
 ?>
 <!DOCTYPE html>
